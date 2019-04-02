@@ -722,9 +722,26 @@ footer {
     }
 }
 
+
 /*
     -------------------------------
-    ----- 10. Contact Styles -----
+    ----- 10. Extra Curricular Styles -----
+    -------------------------------
+*/
+
+#extra-curriculars {
+    padding: 50px 15px;
+    text-align: center;
+
+    h2 {
+        color: $heading;
+        margin-bottom: 50px;
+    }
+}
+
+/*
+    -------------------------------
+    ----- 11. Contact Styles -----
     -------------------------------
 */
 
@@ -789,7 +806,7 @@ footer {
 
 /*
     ---------------------------------------
-    ----- 11. Optional Section Styles -----
+    ----- 12. Optional Section Styles -----
     ---------------------------------------
 */
 
